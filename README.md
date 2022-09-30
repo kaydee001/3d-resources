@@ -1,7 +1,12 @@
 # 3d-resources
+
 A repository of 3D resources for your projects, both free and paid :)
 
+Do your bit by contributing links relating to 3D modelling, sculpting, assets/models, shaders, etc. to assist other 3D enthusiasts and generalists.
+
 ##Links
+
+##Resources
 
 
 ## Contributing
