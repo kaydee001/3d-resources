@@ -4,7 +4,7 @@ A repository of 3D resources for your projects, both free and paid :)
 
 Do your bit by contributing links relating to 3D modelling, sculpting, assets/models, shaders, etc. to assist other 3D enthusiasts and generalists.
 
-##Links
+## Links
 
 1. https://sketchfab.com/
 2. https://www.mixamo.com/
@@ -17,7 +17,7 @@ Do your bit by contributing links relating to 3D modelling, sculpting, assets/mo
 9. https://www.textures.com/
 
 ***
-##Resources
+## Resources
 
 1. [Quaternius - Free CC0 3D Assets in FBX, Blend](https://quaternius.com/)
 2. [Kenney's - Free Asstets for 3D and 2D Games + UI](https://www.kenney.nl/)
