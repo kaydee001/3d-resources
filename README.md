@@ -14,6 +14,7 @@ Do your bit by contributing links relating to 3D modelling, sculpting, assets/mo
 6. https://webflow.com/made-in-webflow/3d
 7. https://www.vectary.com/
 8. https://nathanduck.gumroad.com/p/ducky-3d-black-friday
+9. https://www.textures.com/
 
 ***
 ##Resources
