@@ -14,11 +14,14 @@ Do your bit by contributing links relating to 3D modelling, sculpting, assets/mo
 6. https://webflow.com/made-in-webflow/3d
 7. https://www.vectary.com/
 8. https://nathanduck.gumroad.com/p/ducky-3d-black-friday
+
+***
 ##Resources
 
 1. [Quaternius - Free CC0 3D Assets in FBX, Blend](https://quaternius.com/)
 2. [Kenney's - Free Asstets for 3D and 2D Games + UI](https://www.kenney.nl/)
 
+***
 ## Contributing
 > **NOTE:** Only add links in this readme file. Do not create new files or PR will be marked invalid.
 
