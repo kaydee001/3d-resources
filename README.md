@@ -12,6 +12,7 @@ Do your bit by contributing links relating to 3D modelling, sculpting, assets/mo
 4. https://free3d.com/
 5. https://opengameart.org/
 6. https://webflow.com/made-in-webflow/3d
+7. https://www.vectary.com/
 
 ##Resources
 
