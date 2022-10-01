@@ -8,7 +8,9 @@ Do your bit by contributing links relating to 3D modelling, sculpting, assets/mo
 
 1. https://sketchfab.com/
 2. https://www.mixamo.com/
-3. https://opengameart.org/
+3. https://sketchfab.com/
+4. https://free3d.com/
+5. https://opengameart.org/
 
 ##Resources
 
