@@ -27,6 +27,7 @@ Do your bit by contributing links relating to 3D modelling, sculpting, assets/mo
 
 1. [Quaternius - Free CC0 3D Assets in FBX, Blend](https://quaternius.com/)
 2. [Kenney's - Free Asstets for 3D and 2D Games + UI](https://www.kenney.nl/)
+3. [Bruno Simon's 3D Resume Website - For Inspiration](https://bruno-simon.com/)
 
 ***
 ## Contributing
