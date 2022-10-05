@@ -20,6 +20,7 @@ Do your bit by contributing links relating to 3D modelling, sculpting, assets/mo
 12. https://ambientcg.com/
 13. https://polyhaven.com/  
 14. https://www.turbosquid.com/Search/3D-Models/free
+15. https://mantissa.xyz/pages/work.html
 
 
 ***
