@@ -23,6 +23,7 @@ Do your bit by contributing links relating to 3D modelling, sculpting, assets/mo
 15. https://mantissa.xyz/pages/work.html
 16. https://assetstore.unity.com/
 17. https://www.coohom.com/
+18. https://thebasemesh.com/model-library
 
 
 ***
